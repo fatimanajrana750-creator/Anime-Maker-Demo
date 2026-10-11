@@ -1,0 +1,6 @@
+flask
+requests
+openai
+google-generativeai
+groq
+cloudinary
